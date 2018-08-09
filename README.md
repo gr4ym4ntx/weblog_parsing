@@ -1,2 +1,2 @@
 # weblog_parsing
-A variety of scripts to aid in weblog analysis
+A variety of simple scripts to aid in weblog analysis
